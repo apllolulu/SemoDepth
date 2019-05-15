@@ -1,0 +1,5 @@
+model_checkpoint_path: "depth-chkpt"
+all_model_checkpoint_paths: "depth-chkpt"
+
+
+
